@@ -1,0 +1,7 @@
+logging:
+  level: debug
+
+logging:
+  level: warn
+  logstash:
+    host: logstash
